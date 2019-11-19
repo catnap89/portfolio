@@ -413,7 +413,7 @@ button:focus {
 
 
 /*===========================
-        6.SERVICES
+        6.SERVICES (Skills)
 =============================*/
 
 .services-boxes {
@@ -583,6 +583,19 @@ button:focus {
 
 .work_box:hover .work_img>img {
     transform: scale(1.05);
+}
+
+.about-social-light li a {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 42px;
+    width: 42px;
+    font-size: 20px;
+    border-radius: 50%;
+    border: 2px solid #d4d4d4;
+    line-height: 38px;
+    transition: all 0.5s;
+    text-align: center;
 }
 
 

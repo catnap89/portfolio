@@ -15,6 +15,23 @@
     border-color: #87ceeb;
 }
 
+.text-custom,
+.custom-nav .navbar-nav li a:hover,
+.custom-nav .navbar-nav li a:active,
+.custom-nav .navbar-nav li.active a,
+.custom-nav.stickyadd .navbar-nav li a:hover,
+.custom-nav.stickyadd .navbar-nav li a:active,
+.custom-nav.stickyadd .navbar-nav li.active a,
+.about-social-light li a:hover {
+    color: #87ceeb !important;
+}
+
+.btn-custom,
+.form-kerri .form-control:focus,
+.about-social-light li a:hover {
+    border-color: #87ceeb;
+}
+
 .btn-custom,
 .back_top,
 .services-boxes .services-title-border,
