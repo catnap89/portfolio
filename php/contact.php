@@ -39,7 +39,7 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@example.net";
-$address = "example@example.net";
+$address = "petshop0907@gmail.com";
 
 
 // Configuration option.
@@ -73,7 +73,7 @@ if(mail($address, $e_subject, $msg, $headers)) {
 	echo "<fieldset>";
 	echo "<div id='success_msg'>";
 	echo "<h3>Email Sent Successfully.</h3>";
-	echo "<p>Thank you <strong>$name</strong>, your message has been submitted to us.</p>";
+	echo "<p>Thank you <strong>$name</strong>, your message has been submitted to Youngwoo Cho.</p>";
 	echo "</div>";
 	echo "</fieldset>";
 
